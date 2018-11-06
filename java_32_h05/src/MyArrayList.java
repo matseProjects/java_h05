@@ -1,4 +1,4 @@
-package java_32_h05;
+
 
 public class MyArrayList {
 	private int[] arr;
