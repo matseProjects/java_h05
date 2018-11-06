@@ -3,6 +3,7 @@
 public class MyArrayList {
 	private int[] arr;
 	private int size;
+	
 
 	public static void main(String[] args) {
 		MyArrayList myArrayList = new MyArrayList();
